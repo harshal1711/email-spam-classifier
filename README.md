@@ -6,7 +6,7 @@ This project focuses on building classification models to distinguish between sp
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - **Records**: 4,601 email messages
 - **Features**: 57 attributes derived from message content (e.g., word frequency, punctuation, capital letter usage)
@@ -14,7 +14,7 @@ This project focuses on building classification models to distinguish between sp
 
 ---
 
-## 🧠 Classification Modeling Summary
+## Classification Modeling Summary
 
 ### Part (A): Optimizing for Accuracy
 
@@ -66,7 +66,7 @@ This project focuses on building classification models to distinguish between sp
 
 ---
 
-## 🔍 Key Takeaways
+## Key Takeaways
 
 - **LightGBM consistently outperformed** other models in both standard and cost-sensitive settings.
 - **Neural Networks and SVC** were strong contenders, especially in AUC performance.
